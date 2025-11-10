@@ -31,3 +31,10 @@ enriched_persons_451-467.json
 # Test files
 test_persons.json
 test_persons_with_wiki.json
+
+# Source documents
+*.docx
+*.hwp
+
+# IDE settings
+.claude/
