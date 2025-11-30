@@ -1,100 +1,100 @@
 id,label,type,category,citation_count
-kim_woochang,김우창,critic,critic,
-essay_01,한국시와형이상,essay,essay,
-essay_02,궁핍한시대의시인,essay,essay,
-essay_03,한국현대소설의형성,essay,essay,
-essay_04,한용운의소설,essay,essay,
-essay_05,윤동주의시,essay,essay,
-essay_06,북간도,essay,essay,
-essay_07,금강,essay,essay,
-essay_08,떠돌이의시,essay,essay,
-essay_09,피천득론,essay,essay,
-essay_10,김수영론,essay,essay,
-essay_11,소설가구보씨,essay,essay,
-essay_12,정현종론,essay,essay,
-essay_13,김종길시론,essay,essay,
-essay_14,진실과언어,essay,essay,
-essay_15,김윤식비평사,essay,essay,
-essay_16,문학과현실,essay,essay,
-essay_17,주체의형식으로서의문학,essay,essay,
-essay_18,문학적송신,essay,essay,
-essay_19,세계와문학의세계,essay,essay,
-essay_20,말과현실,essay,essay,
-essay_21,나와우리,essay,essay,
-essay_22,물음에대하여,essay,essay,
-essay_23,하버마스비판이론,essay,essay,
-author_han_yongwoon,한용운,korean_author,poet,
-author_yun_dongju,윤동주,korean_author,poet,
-author_seo_jeongju,서정주,korean_author,poet,
-author_kim_suyoung,김수영,korean_author,poet,
-author_jeong_hyeonjong,정현종,korean_author,poet,
-author_shin_dongyup,신동엽,korean_author,poet,
-author_an_sugil,안수길,korean_author,novelist,
-author_choi_inhun,최인훈,korean_author,novelist,
-author_pi_cheondeuk,피천득,korean_author,essayist,
-author_kim_jonggil,김종길,korean_author,critic,
-author_kim_yunsik,김윤식,korean_author,critic,
-author_yu_jongho,유종호,korean_author,critic,
-phil_descartes,데카르트,philosopher,modern_philosophy,6
-phil_heidegger,하이데거,philosopher,phenomenology,5
-phil_sartre,사르트르,philosopher,existentialism,4
-phil_eliot,T.S. 엘리엇,philosopher,literary_criticism,4
-phil_merleau_ponty,메를로퐁티,philosopher,phenomenology,4
-phil_lukacs,루카치,philosopher,critical_theory,3
-phil_goldmann,골드만,philosopher,critical_theory,3
-phil_habermas,하버마스,philosopher,critical_theory,2
-phil_arendt,한나 아렌트,philosopher,political_philosophy,2
-phil_valery,발레리,philosopher,literary_criticism,2
-phil_weber,막스 베버,philosopher,sociology,2
-phil_marcuse,마르쿠제,philosopher,critical_theory,2
-phil_hegel,헤겔,philosopher,german_idealism,2
-phil_nietzsche,니체,philosopher,modern_philosophy,2
-phil_plato,플라톤,philosopher,ancient_philosophy,2
-phil_saussure,소쉬르,philosopher,linguistics,1
-phil_lacan,라캉,philosopher,psychoanalysis,1
-phil_kierkegaard,키르케고르,philosopher,existentialism,1
-phil_dilthey,딜타이,philosopher,hermeneutics,1
-phil_kuhn,토머스 쿤,philosopher,philosophy_of_science,1
-phil_dewey,존 듀이,philosopher,pragmatism,1
-phil_pascal,파스칼,philosopher,religious_philosophy,1
-phil_hobbes,홉스,philosopher,political_philosophy,2
-phil_baudelaire,보들레르,philosopher,literary_criticism,1
-phil_mallarme,말라르메,philosopher,literary_criticism,1
-phil_pound,에즈라 파운드,philosopher,literary_criticism,1
-phil_grierson,그리어슨,philosopher,literary_criticism,1
-phil_brecht,브레히트,philosopher,literary_criticism,2
-phil_henry_james,헨리 제임스,philosopher,literary_criticism,1
-phil_ian_watt,이안 와트,philosopher,literary_criticism,1
-phil_whitehead,화이트헤드,philosopher,process_philosophy,1
-phil_freud,프로이트,philosopher,psychoanalysis,2
-phil_binswanger,빈스방거,philosopher,phenomenological_psychiatry,1
-phil_levi_strauss,레비스트로스,philosopher,structuralism,1
-phil_foucault,푸코,philosopher,poststructuralism,1
-phil_horkheimer,호르크하이머,philosopher,critical_theory,1
-phil_adorno,아도르노,philosopher,critical_theory,1
-phil_fromm,에리히 프롬,philosopher,psychoanalysis,1
-phil_peirce,찰스 퍼스,philosopher,semiotics,1
-phil_goethe,괴테,philosopher,literary,1
-phil_schiller,실러,philosopher,aesthetics,1
-phil_socrates,소크라테스,philosopher,ancient_philosophy,1
-phil_arnold,매튜 아놀드,philosopher,literary_criticism,1
-phil_emerson,에머슨,philosopher,transcendentalism,1
-phil_stendhal,스탕달,philosopher,literary,1
-phil_burke,케네스 버크,philosopher,rhetoric,1
-phil_apollinaire,아폴리네르,philosopher,literary,1
-phil_thoreau,소로,philosopher,transcendentalism,1
-phil_wordsworth,워즈워스,philosopher,romanticism,1
-phil_solzhenitsyn,솔제니친,philosopher,literary,1
-phil_claudel,폴 클로델,philosopher,literary,1
-phil_buffon,뷔퐁,philosopher,natural_history,1
-phil_william_james,윌리엄 제임스,philosopher,pragmatism,1
-phil_mead,조지 허버트 미드,philosopher,social_psychology,1
-phil_machiavelli,마키아벨리,philosopher,political_philosophy,1
-phil_thomas_more,토머스 모어,philosopher,political_philosophy,1
-phil_augustinus,아우구스티누스,philosopher,medieval_philosophy,1
-phil_lichtheim,리히트하임,philosopher,intellectual_history,1
-phil_kosik,카렐 코시크,philosopher,marxism,1
-phil_macleish,매클리시,philosopher,literary_criticism,1
-phil_john_donne,존 던,philosopher,metaphysical_poetry,1
-phil_okakura,오카쿠라 가쿠조,philosopher,aesthetics,1
-phil_mills,C. 라이트 밀스,philosopher,sociology,1
+김우창,김우창,critic,critic,
+한국시와형이상,한국시와형이상,essay,essay,
+궁핍한시대의시인,궁핍한시대의시인,essay,essay,
+한국현대소설의형성,한국현대소설의형성,essay,essay,
+한용운의소설,한용운의소설,essay,essay,
+윤동주의시,윤동주의시,essay,essay,
+북간도,북간도,essay,essay,
+금강,금강,essay,essay,
+떠돌이의시,떠돌이의시,essay,essay,
+피천득론,피천득론,essay,essay,
+김수영론,김수영론,essay,essay,
+소설가구보씨,소설가구보씨,essay,essay,
+정현종론,정현종론,essay,essay,
+김종길시론,김종길시론,essay,essay,
+진실과언어,진실과언어,essay,essay,
+김윤식비평사,김윤식비평사,essay,essay,
+문학과현실,문학과현실,essay,essay,
+주체의형식으로서의문학,주체의형식으로서의문학,essay,essay,
+문학적송신,문학적송신,essay,essay,
+세계와문학의세계,세계와문학의세계,essay,essay,
+말과현실,말과현실,essay,essay,
+나와우리,나와우리,essay,essay,
+물음에대하여,물음에대하여,essay,essay,
+하버마스비판이론,하버마스비판이론,essay,essay,
+한용운,한용운,korean_author,poet,
+윤동주,윤동주,korean_author,poet,
+서정주,서정주,korean_author,poet,
+김수영,김수영,korean_author,poet,
+정현종,정현종,korean_author,poet,
+신동엽,신동엽,korean_author,poet,
+안수길,안수길,korean_author,novelist,
+최인훈,최인훈,korean_author,novelist,
+피천득,피천득,korean_author,essayist,
+김종길,김종길,korean_author,critic,
+김윤식,김윤식,korean_author,critic,
+유종호,유종호,korean_author,critic,
+데카르트,데카르트,philosopher,modern_philosophy,6
+하이데거,하이데거,philosopher,phenomenology,5
+사르트르,사르트르,philosopher,existentialism,4
+엘리엇,T.S. 엘리엇,philosopher,literary_criticism,4
+메를로퐁티,메를로퐁티,philosopher,phenomenology,4
+루카치,루카치,philosopher,critical_theory,3
+골드만,골드만,philosopher,critical_theory,3
+하버마스,하버마스,philosopher,critical_theory,2
+한나아렌트,한나 아렌트,philosopher,political_philosophy,2
+발레리,발레리,philosopher,literary_criticism,2
+막스베버,막스 베버,philosopher,sociology,2
+마르쿠제,마르쿠제,philosopher,critical_theory,2
+헤겔,헤겔,philosopher,german_idealism,2
+니체,니체,philosopher,modern_philosophy,2
+플라톤,플라톤,philosopher,ancient_philosophy,2
+소쉬르,소쉬르,philosopher,linguistics,1
+라캉,라캉,philosopher,psychoanalysis,1
+키르케고르,키르케고르,philosopher,existentialism,1
+딜타이,딜타이,philosopher,hermeneutics,1
+토머스쿤,토머스 쿤,philosopher,philosophy_of_science,1
+존듀이,존 듀이,philosopher,pragmatism,1
+파스칼,파스칼,philosopher,religious_philosophy,1
+홉스,홉스,philosopher,political_philosophy,2
+보들레르,보들레르,philosopher,literary_criticism,1
+말라르메,말라르메,philosopher,literary_criticism,1
+에즈라파운드,에즈라 파운드,philosopher,literary_criticism,1
+그리어슨,그리어슨,philosopher,literary_criticism,1
+브레히트,브레히트,philosopher,literary_criticism,2
+헨리제임스,헨리 제임스,philosopher,literary_criticism,1
+이안와트,이안 와트,philosopher,literary_criticism,1
+화이트헤드,화이트헤드,philosopher,process_philosophy,1
+프로이트,프로이트,philosopher,psychoanalysis,2
+빈스방거,빈스방거,philosopher,phenomenological_psychiatry,1
+레비스트로스,레비스트로스,philosopher,structuralism,1
+푸코,푸코,philosopher,poststructuralism,1
+호르크하이머,호르크하이머,philosopher,critical_theory,1
+아도르노,아도르노,philosopher,critical_theory,1
+에리히프롬,에리히 프롬,philosopher,psychoanalysis,1
+찰스퍼스,찰스 퍼스,philosopher,semiotics,1
+괴테,괴테,philosopher,literary,1
+실러,실러,philosopher,aesthetics,1
+소크라테스,소크라테스,philosopher,ancient_philosophy,1
+매튜아놀드,매튜 아놀드,philosopher,literary_criticism,1
+에머슨,에머슨,philosopher,transcendentalism,1
+스탕달,스탕달,philosopher,literary,1
+케네스버크,케네스 버크,philosopher,rhetoric,1
+아폴리네르,아폴리네르,philosopher,literary,1
+소로,소로,philosopher,transcendentalism,1
+워즈워스,워즈워스,philosopher,romanticism,1
+솔제니친,솔제니친,philosopher,literary,1
+폴클로델,폴 클로델,philosopher,literary,1
+뷔퐁,뷔퐁,philosopher,natural_history,1
+윌리엄제임스,윌리엄 제임스,philosopher,pragmatism,1
+조지허버트미드,조지 허버트 미드,philosopher,social_psychology,1
+마키아벨리,마키아벨리,philosopher,political_philosophy,1
+토머스모어,토머스 모어,philosopher,political_philosophy,1
+아우구스티누스,아우구스티누스,philosopher,medieval_philosophy,1
+리히트하임,리히트하임,philosopher,intellectual_history,1
+카렐코시크,카렐 코시크,philosopher,marxism,1
+매클리시,매클리시,philosopher,literary_criticism,1
+존던,존 던,philosopher,metaphysical_poetry,1
+오카쿠라가쿠조,오카쿠라 가쿠조,philosopher,aesthetics,1
+라이트밀스,C. 라이트 밀스,philosopher,sociology,1
